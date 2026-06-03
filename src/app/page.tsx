@@ -138,7 +138,8 @@ export default function LandingPage() {
         {
           id: "1",
           name: "Elegant Red Evening Dress",
-          price: "$49.99",
+          price: "$2,000
+",
           imageSrc: "http://img.b2bpic.net/free-photo/seductive-blonde-woman-posing-luxury-red-dress-with-wide-sleeves-fashionable-look-blond-wavy-hairs-expressive-photo-windy-cloth_273443-1730.jpg",
           imageAlt: "Elegant Red Evening Dress",
         },
